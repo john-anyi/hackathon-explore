@@ -1,1 +1,2 @@
 # hackathon-explore
+This project is a Natural language processing project to detect the languages in a given text. In this case the languages are the indeginous languages spoken in South Africa plus english. The model used as expecyed was the Multinomial Naive Bayes model.
